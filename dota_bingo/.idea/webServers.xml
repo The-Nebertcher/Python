@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b531ca94-b690-4413-a7c5-62a8e57893e9" name="Resume site" url="http://gabehamontree.com">
+        <fileTransfer accessType="SFTP" host="gabehamontree.com" port="22" sshConfigId="7beac4cc-c5bb-4bc2-8962-f4ef37f95bde" sshConfig="root@gabehamontree.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
